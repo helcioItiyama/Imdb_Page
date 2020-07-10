@@ -7,7 +7,7 @@
 This project was developed for Codenation First Week Challenge.
 
 <p align="center">
-    <img alt ="gif homepage" src="https://github.com/helcioItiyama/Imdb_Page/blob/master/img/2020-04-08-13-14-09-1.gif"/>
+    <img alt ="gif homepage" src="https://github.com/helcioItiyama/Imdb_Page/blob/master/img/2020-04-08-13-14-09-1.gif" width="500px"/>
 </p>
 
 
